@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "deeweny",
-    "repositoryName": "deeweny.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"deeweny","repositoryName":"deeweny.github.io","branch":"master"},"site":{"title":"deeweny","description":"time to dive","url":"http://deeweny.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://deeweny.github.io/themes/Casper"}}
